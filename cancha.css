@@ -1,0 +1,86 @@
+.base{
+	background-color:#04B486;
+	border: 10px solid #04B486;
+	height: 320px;
+	width: 630px;
+	left:100px;
+	top:150px;
+	}
+.margen{
+	background-color:#04B486;
+	border: 5px solid white;
+	height: 290px;
+	width: 590px;
+	left:32px;
+	top:30px;
+	position: absolute;
+}
+.rectangulo_1{
+	background-color:#04B486;
+	border: 5px solid white;
+	height: 130px;
+	width: 70px;
+	left:32px;
+	top:110px;
+	position: absolute;
+}
+.rectangulo_2{
+	background-color:#04B486;
+	border: 5px solid white;
+	height: 130px;
+	width: 70px;
+	left:550px;
+	top:110px;
+	position: absolute;
+}
+.circulo{
+	 width: 150px;
+     height: 150px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50% ;
+     border: solid white;
+     background:#04B486 ;
+     position:absolute;
+     left:250px;
+	 top:100px;
+}
+.punto_1{
+	width: 12px;
+     height: 12px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50% ;
+     border: solid white;
+     background:white ;
+     box-shadow: 2px 2px 5px black;
+     position:absolute;
+     left:96px;
+	 top:115px;
+}
+.punto_2{
+	width: 12px;
+     height: 12px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50% ;
+     border: solid white;
+     background:white ;
+     box-shadow: 2px 2px 5px black;
+     position:absolute;
+     left:320px;
+	 top:60px;
+}
+.punto_3{
+	width: 12px;
+     height: 12px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50% ;
+     border: solid white;
+     background:white ;
+     box-shadow: 2px 2px 5px black;
+     position:absolute;
+     left:522px;
+	 top:220px;
+}
